@@ -4,7 +4,6 @@ from pickle import load
 import statsmodels.api as sm
 import numpy as np
 import pandas as pd
-import pandas_datareader.data as web
 from matplotlib import pyplot
 from pandas.plotting import scatter_matrix
 import seaborn as sns
